@@ -2,6 +2,7 @@ title : AdidasDashoard_Excel
 
 This project is an interactive sales analytics dashboard created in Microsoft Excel. It visualizes Adidas sales data across regions, time periods, sales methods, and retailers to provide clear and actionable business insights.
 
+
 Key Features
 
 Interactive slicers for invoice date, region, and sales method
@@ -13,6 +14,8 @@ Charts showing operating profit by state
 Pie chart for regional distribution
 
 Bar chart comparing total sales by retailer
+
+
 
 Tech Stack
 
@@ -32,8 +35,3 @@ Compared sales across different channels (In-store, Online, Outlet)
 
 Analyzed trends in operating profit over time
 
-Usage
-
-Download and open the Excel file (.xlsx) to interact with the dashboard using slicers and filters.
-
-Send the next project when you’re ready.
